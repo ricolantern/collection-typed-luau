@@ -2,8 +2,7 @@
 Strict-typed collection implementation for Luau.
 
 Based on either Symfony's or Laravel's implementation of collections (forgor, it been a while since I made this).
-
-**Currently untested**
+I noticed frequent re-use throughout my projects, so I decided to make it public.
 
 ## Example usage
 ### Internal counter
